@@ -28,4 +28,4 @@ jobs:
       - name: Build project
         run: npm run build
       - name: Deply
-        run: eco "Deploying ..."
+        run: echo "Deploying ..."
